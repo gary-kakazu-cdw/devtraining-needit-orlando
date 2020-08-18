@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-08-18 13:15:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>43f553c7db5f80909df22f17d496198d</instance_id>
+        <instance_name>dev102551</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-08-18 13:15:23</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1828161538</payload_hash>
+        <record_name>Task.u_request_type</record_name>
+        <reverted_from/>
+        <source>a73ce84c2fb610106bc156e62799b6bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin.gkakazu</sys_created_by>
+        <sys_created_on>2020-08-18 13:15:23</sys_created_on>
+        <sys_id>7585b68c2ffa10106bc156e62799b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17401b5c2870000001</sys_recorded_at>
+        <sys_updated_by>admin.gkakazu</sys_updated_by>
+        <sys_updated_on>2020-08-18 13:15:23</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>fd85b68c13fa1010ef35d1d96ae4ab6b</update_guid>
+        <update_guid_history>fd85b68c13fa1010ef35d1d96ae4ab6b:1828161538,3585b68c86fa1010594f2f0ef487db5c:1429053012,f185b68cd5fa1010755fa971070cc159:-1514400100,f63ca84c26b61010db4a832d9e3465c0:0,f92c644c73b610109be22904d47cb2e2:48790952,bd2c644c48b6101016cd2b042e2045de:-1701966180,7d2c644cccb61010acff36cf17dd22db:736548692,3d2c644cfab6101021358d51a079ead8:833312879,1675f1f34622101014b29a66689b9960:0,a665fdb3fa221010da0f7bbba5fe6533:156515018,2a65fdb324221010019096735031192f:-1701966180,ee65fdb340221010da12798ead854b1f:736548692,6e65fdb30b221010f67a6f7b4d30061c:833312879,9e71fa6686ee1010c907ff7e492964aa:0,93613a66deee1010c7b52ececd2d85a8:1971711694,17613a66b9ee1010a4aa55d94a6b8ba4:-1701966180,93613a66f6ee1010eb8b779c8e9ca4a1:736548692,13613a66eaee101045fb052f04ea8a9e:833312879,bd37a8c47ee65010b85cce7ac904f2ad:0,3937a8c4fce65010d370ce239212489f:833312879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin.gkakazu</sys_created_by>
+        <sys_created_on>2020-08-18 13:15:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>68957a8c2ffa10106bc156e62799b658</sys_id>
+        <sys_metadata>68957a8c2ffa10106bc156e62799b658</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">7585b68c2ffa10106bc156e62799b66c</sys_update_version>
+        <sys_updated_by>admin.gkakazu</sys_updated_by>
+        <sys_updated_on>2020-08-18 13:15:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
